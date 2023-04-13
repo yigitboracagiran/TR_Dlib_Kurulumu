@@ -12,6 +12,6 @@ d) `cd build` ile oluşturduğumuz dizinine gidiyoruz.
 
 e) `cmake ..` ile build klasörünün konfigürasyonu yapılıyor.
 
-f) 'make' komutu ile Dlib'i derliyoruz.
+f) `make` komutu ile Dlib'i derliyoruz.
 
 g) `sudo make install` ile de Dlib'i kuruyoruz.
